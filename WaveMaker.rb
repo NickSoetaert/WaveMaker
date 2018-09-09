@@ -6,7 +6,7 @@ class MakeWaves
    def createGraph     
       puts "How many lines of wave?"
       numLines = gets.to_i
-      puts "What is your amplitude? [0-40]" 
+      puts "What is your amplitude?" 
       amplitude = gets.to_i
 
       for i in 1..numLines do

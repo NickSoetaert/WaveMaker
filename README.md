@@ -1,4 +1,4 @@
 # Wave Maker
 
-Sends ascii-representations of sinal waves to a .txt file
-Make for Ruby practice.
+Sends ascii-representations of sinal waves to the screen
+Made for Ruby practice.
